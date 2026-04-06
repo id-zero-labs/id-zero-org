@@ -2,7 +2,7 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg width="100%" height="100%" viewBox="0 0 514 514" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
     <g transform="matrix(1.111111,0,0,1.111111,-29.916667,-27.888889)">
-        <g opacity="0.1">
+        <g opacity="0.15">
             <g transform="matrix(0.991189,0,0,1.119403,-0.700441,-14.298507)">
                 <ellipse cx="261" cy="237" rx="227" ry="201" style="fill:white;fill-opacity:0.05;"/>
             </g>
@@ -61,9 +61,9 @@
     </g>
     <g transform="matrix(1.600245,0,0,1.600245,-42.90523,-318.032703)">
         <g transform="matrix(0.995594,0,0,1,0.24268,0)">
-            <g transform="matrix(10.348019,0,0,10.348019,320.976007,490.918059)">
+            <g transform="matrix(10.348019,0,0,10.348019,317.04376,490.918059)">
             </g>
-            <text x="55.078px" y="490.918px" style="font-family:'AvenirNext-Regular', 'Avenir Next', sans-serif;font-size:10.348px;fill:white;stroke:white;stroke-width:0.5px;">O<tspan x="65.53px 73.198px 80.772px 85.015px 93.242px 100.816px 106.197px 112.448px 120.426px 128.094px 132.128px 136.371px 146.822px 154.49px 162.065px 166.308px 173.976px 181.954px 190.201px 197.776px 201.81px 206.053px 213.503px 221.078px 226.272px 234.25px 238.493px 246.74px 253.818px 258.754px 265.935px 270.178px 277.69px 284.354px 292.581px 300.559px 306.81px 314.384px " y="490.918px 490.918px 490.918px 490.918px 490.918px 490.918px 490.918px 490.918px 490.918px 490.918px 490.918px 490.918px 490.918px 490.918px 490.918px 490.918px 490.918px 490.918px 490.918px 490.918px 490.918px 490.918px 490.918px 490.918px 490.918px 490.918px 490.918px 490.918px 490.918px 490.918px 490.918px 490.918px 490.918px 490.918px 490.918px 490.918px 490.918px 490.918px ">ne person. One node. Zero data exposed</tspan></text>
+            <text x="55.078px" y="490.918px" style="font-family:'AvenirNext-Regular', 'Avenir Next', sans-serif;font-size:10.348px;fill:white;stroke:white;stroke-width:0.5px;">O<tspan x="65.426px 72.991px 80.462px 84.601px 92.724px 100.196px 105.473px 111.62px 119.495px 127.059px 130.99px 135.129px 145.477px 153.041px 160.513px 164.652px 172.216px 180.091px 188.235px 195.706px 199.637px 203.776px 211.123px 218.594px 223.685px 231.56px 235.699px 243.843px 250.817px 255.649px 262.727px 266.866px 274.275px 280.836px 288.959px 296.834px 302.981px 310.452px " y="490.918px 490.918px 490.918px 490.918px 490.918px 490.918px 490.918px 490.918px 490.918px 490.918px 490.918px 490.918px 490.918px 490.918px 490.918px 490.918px 490.918px 490.918px 490.918px 490.918px 490.918px 490.918px 490.918px 490.918px 490.918px 490.918px 490.918px 490.918px 490.918px 490.918px 490.918px 490.918px 490.918px 490.918px 490.918px 490.918px 490.918px 490.918px ">ne person. One node. Zero data exposed</tspan></text>
         </g>
     </g>
     <g transform="matrix(1,0,0,1,-0.168709,-3)">
