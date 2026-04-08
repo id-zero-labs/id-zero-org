@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 1100 280" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-miterlimit:2;">
-    <g transform="matrix(2.391405,0,0,0.585449,-67.232558,-7.197641)">
-        <g opacity="0.25">
+<svg width="100%" height="100%" viewBox="0 0 900 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-miterlimit:2;">
+    <g transform="matrix(1.906805,0,0,1.265449,-39.205785,-19.877641)">
+        <g opacity="0.16">
             <g transform="matrix(0.991189,0,0,1.119403,-0.700441,-14.298507)">
                 <ellipse cx="261" cy="237" rx="227" ry="201" style="fill:white;fill-opacity:0.05;"/>
             </g>
@@ -59,8 +59,8 @@
             </g>
         </g>
     </g>
-    <g transform="matrix(1,0,0,1,20.960396,5.126835)">
-        <g transform="matrix(3.000287,0,0,3.000287,-642.899084,-630.211641)">
+    <g transform="matrix(1,0,0,1,-79.039604,165.126835)">
+        <g transform="matrix(3.000287,0,0,3.000287,-230.899084,-756.211641)">
             <g>
                 <g>
                     <g transform="matrix(0.824647,0,0,0.828297,-1071.538281,-17.312145)">
@@ -139,7 +139,7 @@
                 </g>
             </g>
         </g>
-        <g transform="matrix(1.758689,0,0,1.758689,158.396006,-592.278408)">
+        <g transform="matrix(1.758689,0,0,1.758689,62.396006,-456.278408)">
             <g transform="matrix(0.948638,0,0,0.948638,51.466116,256.543754)">
                 <g transform="matrix(1.706462,0,0,1.706462,-88.834609,-615.243396)">
                     <g transform="matrix(10.302424,0,0,10.348019,55.078177,490.918059)">
