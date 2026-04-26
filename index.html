@@ -107,6 +107,25 @@
       50% { opacity: 0.3; }
     }
 
+    .contact {
+      margin-top: 1.5rem;
+      font-size: 0.8rem;
+      color: var(--muted);
+      letter-spacing: 0.04em;
+    }
+
+    .contact a {
+      color: var(--muted);
+      text-decoration: none;
+      border-bottom: 1px solid var(--border);
+      transition: color 0.2s, border-color 0.2s;
+    }
+
+    .contact a:hover {
+      color: var(--accent);
+      border-color: var(--accent);
+    }
+
     footer {
       position: fixed;
       bottom: 1.5rem;
@@ -135,6 +154,8 @@
     </div>
 
     <p class="status">In development &mdash; coming soon</p>
+
+    <p class="contact">Contact &mdash; <a href="mailto:info@id-zero.org">info@id-zero.org</a></p>
   </main>
 
   <footer>id-zero.org</footer>
